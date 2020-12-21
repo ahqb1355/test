@@ -1,0 +1,142 @@
+{
+  "id": "2236468",
+  "name": "vue商品项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3666377",
+      "name": "用户",
+      "font_class": "yonghu2",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "7235211",
+      "name": "用户",
+      "font_class": "yonghu3",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11067606",
+      "name": "用户",
+      "font_class": "yonghu11",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "801212",
+      "name": "商品管理",
+      "font_class": "guanli",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "1221713",
+      "name": "商品分类",
+      "font_class": "shangpinfenlei",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "2150430",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "2532364",
+      "name": "商品分类",
+      "font_class": "shangpinfenlei1",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "4765196",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "6951691",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "6982623",
+      "name": "商品分类",
+      "font_class": "shangpinfenlei2",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "7474657",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8104062",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "8942860",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "10596954",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "12014407",
+      "name": "权限",
+      "font_class": "quanxian1",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "12749722",
+      "name": "数据统计",
+      "font_class": "shujutongji1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14243014",
+      "name": "数据统计",
+      "font_class": "shujutongji2",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "14597481",
+      "name": "商品管理",
+      "font_class": "shangpingouwudai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16308161",
+      "name": "订单管理",
+      "font_class": "icon-dingdan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
